@@ -14,7 +14,20 @@ class _UidesignState extends State<Uidesign> {
       leading: Card(
         color: Colors.white,
         child: Icon(Icons.arrow_back,color: Colors.brown,),
-      ),),
+      ),
+        title: Container(
+          height: 40,
+          width: 160,
+          decoration: BoxDecoration(
+            
+            borderRadius: BorderRadius.circular(20),
+            color: Colors.white,
+          ),
+          child: Text("Reja"),
+          
+        ),
+        
+      ),
     );
   }
 }
