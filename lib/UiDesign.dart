@@ -23,7 +23,7 @@ class _UidesignState extends State<Uidesign> {
             borderRadius: BorderRadius.circular(20),
             color: Colors.white,
           ),
-          child: Text("Reja"),
+          child: Text(""),
           
         ),
         
