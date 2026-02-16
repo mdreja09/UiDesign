@@ -16,8 +16,8 @@ class _UidesignState extends State<Uidesign> {
         child: Icon(Icons.arrow_back,color: Colors.brown,),
       ),
         title: Container(
-          height: 40,
-          width: 160,
+          height: 41,
+          width: 159,
           decoration: BoxDecoration(
             
             borderRadius: BorderRadius.circular(20),
